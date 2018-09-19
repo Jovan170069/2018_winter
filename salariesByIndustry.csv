@@ -1,0 +1,382 @@
+CompanyName,CompanyType,ExecutiveName,Salary,Bonus
+3M,Industrials,"Buckley, George W.",1720000,2644100
+Abbott Labs,Health Care,"White, Miles D.",1795500,4200000
+Advance Auto Parts,Consumer Services,"Jackson, Darren R.",800000,1959900
+Advanced Micro Devices,Technology,"Meyer, Derrick R.",856700,0
+Aecom Technology,Industrials,"Dionisio, John M.",956500,2000000
+AES,Utilities,"Hanrahan, Paul",999000,1756200
+Affiliated Computer,Industrials,"Blodgett, Lynn",750000,725600
+Aflac,Financials,"Amos, Daniel P.",1338200,0
+AGCO,Industrials,"Richenhagen, Martin H.",1024800,1124400
+Agilent Technologies,Industrials,"Sullivan, William P.",986700,1305600
+AIG,Financials,"Liddy, Edward M.",0,0
+Air Products,Basic Materials,"Jones, John P.",1000000,2002000
+Alcoa,Basic Materials,"Kleinfeld, Klaus",1400000,1884000
+Allegheny Technologies,Basic Materials,"Hassey, L. Patrick",907900,2149900
+Allstate,Financials,"Wilson II, Thomas J.",1040800,151700
+Alon USA Energy,Oil & Gas,"Morris, Jeff D.",307200,0
+Altria Group,Consumer Goods,"Szymanczyk, Michael E.",1200000,2800000
+Amazon.com,Consumer Services,"Bezos, Jeffrey P.",81800,0
+Ameren,Utilities,"Rainwater, Gary L.",935000,771700
+American Electric Power,Utilities,"Morris, Michael G.",1259600,1654100
+American Express,Financials,"Chenault, Kenneth I.",1250000,0
+Ameriprise Financial,Financials,"Cracchiolo, James M.",850000,0
+AmerisourceBergen,Consumer Services,"Yost, R. David",1182100,1369500
+Amgen,Health Care,"Sharer, Kevin W.",1561900,3875000
+AMR,Consumer Services,"Arpey, Gerard J.",666300,200
+Anadarko Petroleum,Oil & Gas,"Hackett, James T.",1510400,3416500
+Anixter International,Industrials,"Eck, Robert J.",549600,218800
+Aon,Financials,"Case, Gregory C.",1500000,1772000
+Apache,Oil & Gas,"Farris, G. Steven",1493800,500000
+Apple Computer,Technology,"Jobs, Steven P.",0,0
+Applied Materials,Technology,"Splinter, Michael R.",929400,650000
+Arrow Electronics,Industrials,"Mitchell, William E.",1100000,975000
+ArvinMeritor,Consumer Goods,"McClure Jr., Charles G.",1120800,1598500
+Ashland,Basic Materials,"O'Brien, James J.",1110900,445400
+Assurant,Financials,"Pollock, Robert B.",950000,1638800
+AT & T,Telecommunications,"Stephenson, Randall L.",1420800,0
+Atmos Energy,Utilities,"Best, Robert W.",820400,835200
+AutoNation,Consumer Services,"Jackson, Mike",1150000,0
+AutoZone,Consumer Services,"Rhodes III, William C.",706000,779400
+Avery Dennison,Basic Materials,"Scarborough, Dean A.",945000,220000
+Avis Budget Group,Consumer Services,"Nelson, Ronald L.",1000000,0
+Avon,Consumer Goods,"Jung, Andrea",1375000,1689400
+Baker Hughes,Oil & Gas,"Deaton, Chad C.",1155000,1296200
+Ball,Industrials,"Hoover, R. David",1100000,922800
+Bank of America,Financials,"Lewis, Kenneth D.",1500000,0
+Bank of New York Mellon,Financials,"Kelly, Robert P.",993800,0
+Barnes & Noble,Consumer Services,"Riggio, Stephen",800000,1961500
+Baxter,Health Care,"Parkinson Jr., Robert L.",1339300,2708900
+BB & T,Financials,"Allison IV, John A.",993700,0
+Becton Dickinson,Health Care,"Ludwig, Edward J.",1059800,1526200
+Bed Bath & Beyond,Consumer Services,"Temares, Steven H.",1468300,0
+Berkshire Hathaway,Financials,"Buffett, Warren E.",100000,0
+Best Buy,Consumer Services,"Anderson, Bradbury H.",1247300,0
+BJ Services,Oil & Gas,"Stewart, J.W.",1141700,575000
+BJ's Wholesale Club,Consumer Services,"Zarkin, Herbert J.",975000,0
+Black & Decker,Consumer Goods,"Archibald, Nolan D.",1500000,1875000
+Blackrock,Financials,"Fink, Laurence D.",500000,17149500
+Blockbuster,Consumer Services,"Keyes, James W.",750000,402500
+Boeing,Industrials,"McNerney Jr., W. James",1915300,1476500
+BorgWarner,Consumer Goods,"Manganello, Timothy M.",1100000,0
+Boston Scientific,Health Care,"Tobin, James R.",989600,885700
+Bristol-Myers Squibb,Health Care,"Cornelius, James M.",1488100,4475000
+Burlington Northern,Industrials,"Rose, Matthew K.",1183600,1679500
+C H Robinson,Industrials,"Wiehoff, John P.",400000,1314200
+Calpine,Utilities,"Fusco, Jack A.",396200,896200
+Cameron International,Oil & Gas,"Moore, Jack B.",745400,903000
+Campbell Soup,Consumer Goods,"Conant, Douglas R.",1177500,1866400
+Capital One Financial,Financials,"Fairbank, Richard D.",0,0
+Carmax,Consumer Services,"Folliard, Thomas J.",846200,0
+Caterpillar,Industrials,"Owens, James W.",1550000,1853200
+CB Richard Ellis Group,Financials,"White, Brett",850000,0
+CBS,Consumer Services,"Moonves, Leslie",3513500,11000000
+CC Media Holdings,Financials,"Mays, Mark P.",895000,4500000
+Celanese,Basic Materials,"Weidman, David N.",900000,755700
+CenterPoint Energy,Utilities,"McClanahan, David M.",1052500,1578800
+Chevron,Oil & Gas,"O'Reilly, David J.",1650000,4161000
+Chubb,Financials,"Finnegan, John D.",1275000,3357800
+Cigna,Health Care,"Hanway, H. Edward",1142900,0
+CIT Group,Financials,"Peek, Jeffrey M.",800000,0
+Citigroup,Financials,"Pandit, Vikram S.",958300,0
+Clorox,Consumer Goods,"Knauss, Donald R.",987500,1380000
+CMS Energy,Utilities,"Joos, David W.",1045000,971900
+CNA Financial,Financials,"Lillienthal, Stephen W.",950000,2900000
+Coca-Cola Co.,Consumer Goods,"Kent, Muhtar",1100000,4500000
+Coca-Cola Enterprises,Consumer Goods,"Brock, John F.",1144000,147300
+Colgate-Palmolive,Consumer Goods,"Cook, Ian M.",1075000,3162500
+Comcast,Consumer Services,"Roberts, Brian L.",2769400,7394200
+Commercial Metals,Basic Materials,"McClean, Murray R.",600000,1911200
+Community Health Systems,Health Care,"Smith, Wayne T.",1080000,2071400
+Computer Sciences,Technology,"Laphen, Michael W.",1057700,2142400
+Con Edison,Utilities,"Burke, Kevin",1102500,1066100
+Conagra Foods,Consumer Goods,"Rodkin, Gary",1019200,1100000
+ConocoPhillips,Oil & Gas,"Mulva, James J.",1500000,1417500
+Constellation Energy,Utilities,"Shattuck III, Mayo A.",1290400,0
+Continental Airlines,Consumer Services,"Kellner, Lawrence W.",296900,0
+Con-Way Inc,Industrials,"Stotlar, Douglas W.",700400,245500
+Corning,Technology,"Weeks, Wendell P.",1030000,301600
+Costco,Consumer Services,"Sinegal, James D.",350000,80000
+Coventry Health Care,Health Care,"Wolf, Dale B.",965000,0
+Crown Holdings,Industrials,"Conway, John W.",1075000,3560400
+CSX,Industrials,"Ward, Michael J.",1058300,2032000
+Cummins,Industrials,"Solso, Theodore M.",1210000,1064800
+CVR Energy,Oil & Gas,"Lipinski, John J.",700000,1700000
+CVS Caremark,Consumer Services,"Ryan, Thomas M.",1400000,2350000
+Dana Holding,Consumer Goods,"Convis, Gary L.",850000,1515400
+Danaher,Industrials,"Culp Jr., H. Lawrence",1100000,3267300
+Davita,Health Care,"Thiry, Kent J.",1023100,2000000
+Dean Foods,Consumer Goods,"Engles, Gregg L.",1300000,2350900
+Deere,Industrials,"Lane, Robert W.",1435500,3588900
+Dell,Technology,"Dell, Michael S.",931700,0
+Devon Energy,Oil & Gas,"Nichols, J. Larry",1400000,3000600
+Dillards,Consumer Services,"Dillard, II, William",810000,196300
+DirecTV Group,Consumer Services,"Carey, Chase",2291600,3500000
+Discover Financial,Financials,"Nelms, David W.",1000000,4750000
+Dish Network,Consumer Services,"Ergen, Charles W.",600000,0
+Disney (Walt),Consumer Services,"Iger, Robert A.",2000000,13945500
+Dominion Resources,Utilities,"Farrell ll, Thomas F.",1191700,2355000
+Donnelley (R R) & Sons,Industrials,"Quinlan, Thomas J.",985600,0
+Dover,Industrials,"Livingston, Robert A.",767500,1000000
+Dow Chemical,Basic Materials,"Liveris, Andrew",1641700,0
+Dr Pepper Snapple Group,Consumer Goods,"Young, Larry D.",867300,1643200
+DTE Energy,Utilities,"Earley Jr., Anthony F.",1186500,1500000
+Du Pont,Basic Materials,"Holliday Jr., Charles O.",1369500,1732000
+Duke Energy,Utilities,"Rogers, James E.",0,0
+Eastman Chemical,Basic Materials,"Ferguson, J. Brian",1131200,925000
+Eastman Kodak,Consumer Goods,"Perez, Antonio M.",1096200,0
+Eaton,Industrials,"Cutler, Alexander M.",1132500,320000
+Ebay,Consumer Services,"Donahoe, John J.5",879800,500000
+Ecolab,Basic Materials,"Baker Jr., Douglas M.",1000000,1397000
+Edison International,Utilities,"Craver Jr., Theodore F.",892500,1050000
+El Paso,Oil & Gas,"Foshee, Douglas L.",1037500,1186400
+EMC,Technology,"Tucci, Joseph M.",1000000,1388600
+Emcor Group,Industrials,"MacInnis, Frank T.",950000,2585000
+Emerson Electric,Industrials,"Farr, David N.",1200000,3000000
+Entergy,Utilities,"Leonard, J. Wanye",1273500,2169700
+EOG Resources,Oil & Gas,"Papa, Mark G.",940000,2000000
+Estee Lauder,Consumer Goods,"Lauder, William P.",1500000,3074500
+Exelon,Utilities,"Rowe, John W.",1474400,1835200
+Expeditors International,Industrials,"Rose, Peter J.",110000,5815800
+Express Scripts,Health Care,"Paz, George",941800,2450500
+Exxon Mobil,Oil & Gas,"Tillerson, Rex W.",1870000,4000000
+Family Dollar,Consumer Services,"Levine, Howard R.",878500,533200
+Federal-Mogul,Consumer Goods,"Maria Alapont, Jose",1500000,3075000
+Fifth Third Bancorp,Financials,"Kabat, Kevin T.",900000,0
+Firstenergy,Utilities,"Alexander, Anthony J.",1329400,2305400
+Fluor,Industrials,"Boeckmann, Alan L.",1232300,3073200
+Foot Locker,Consumer Services,"Serra, Matthew D.",1500000,1728300
+Ford Motor,Consumer Goods,"Mulally, Alan",2000000,0
+Fortune Brands,Industrials,"Carbonari, Bruce A.",1100000,0
+FPL Group,Utilities,"Hay, III, Lewis",1255800,2400000
+Franklin Resources,Financials,"Johnson, Gregory E.",780100,4500000
+Frontier Oil,Oil & Gas,"Gibbs, James R.",975000,780000
+Gamestop,Consumer Services,"DeMatteo, Daniel A.",1035400,2400000
+Gannett,Consumer Services,"Dubow, Craig A.",1166700,875000
+Gap,Consumer Services,"Murphy, Glenn K.",1500000,3016400
+General Cable,Industrials,"Kenny, Gregory B.",823300,844000
+General Dynamics,Industrials,"Chabraja, Nicholas D.",1375000,4500000
+General Electric,Industrials,"Immelt, Jeffery R.",3300000,0
+General Mills,Consumer Goods,"Powell, Kendall J.",959600,2638800
+Genuine Parts,Consumer Goods,"Gallagher, Thomas C.",875000,866700
+Genworth Financial,Financials,"Fraizer, Michael D.",1121400,0
+Gilead Sciences,Health Care,"Martin, John C.",1146300,1651700
+Goldman Sachs Group,Financials,"Blankfein, Lloyd C.",600000,0
+Goodrich,Industrials,"Larsen, Marshall",1100000,2173600
+Goodyear,Consumer Goods,"Keegan, Robert J.",1216700,0
+Google,Technology,"Schmidt, Eric",0,0
+Grainger (W.W.),Industrials,"Ryan, James T.",787500,631100
+Great Atlantic & Pacific Tea,Consumer Services,"Claus, Eric",800000,432000
+Group 1 Automotive,Consumer Services,"Hesterberg, Earl J.",1000000,200000
+Halliburton,Oil & Gas,"Lesar, David J.",1300000,3120000
+Harley-Davidson,Consumer Goods,"Ziemer, James L.",980700,450300
+Hartford Financial Services,Financials,"Ayer, Ramani",1150000,0
+Health Net,Health Care,"Gellert, Jay M.",1204600,0
+Heinz (H J),Consumer Goods,"Johnson, William R.",1245200,3650000
+Hershey,Consumer Goods,"West, David J.",1000000,1128400
+Hertz Global Holdings,Consumer Services,"Frissora, Mark P.",1094700,600900
+Hess,Oil & Gas,"Hess, John B.",1500000,3500000
+Hewlett-Packard,Technology,"Hurd, Mark V.",1450000,10243700
+Holly Corp,Oil & Gas,"Clifton, Matthew P.",849800,608000
+Home Depot,Consumer Services,"Blake, Francis S.",1013500,0
+Honeywell International,Industrials,"Cote, David M.",1826000,3500000
+Hormel Foods,Consumer Goods,"Ettinger, Jeffrey M.",912100,1343700
+Horton (D.R.),Consumer Goods,"Tomnitz, Donald J.",300000,1848500
+Host Hotels & Resorts,Financials,"Walter, W. Edward",750000,467600
+Humana,Health Care,"McCallister, Michael B.",1017300,0
+IBM,Technology,"Palmisano, Samuel J.",1800000,5500000
+Illinois Tool Works,Industrials,"Speer, David B.",1099600,1586200
+Ingram Micro,Technology,"Spierkel, Gregory M.E.",850000,0
+Integrys Energy Group,Utilities,"Weyers, Larry L.",1050000,684100
+Intel,Technology,"Otellini, Paul S.",1000000,3873300
+International Assets Holding,Financials,"O'Connor, Sean M.",175000,750000
+International Paper,Basic Materials,"V Faraci, John",1261400,1575000
+Interpublic Group of Companies,Consumer Services,"Roth, Michael I.",1332500,2500000
+ITT,Industrials,"Loranger, Steven R.",1119600,2534000
+Jabil Circuit,Industrials,"Main, Timothy L.",1000000,155900
+Jacobs Engineering,Industrials,"Martin, Craig L.",1084600,1301700
+JCPenney,Consumer Services,"Ullman III, Myron E.",1500000,1406300
+Johnson & Johnson,Health Care,"Weldon, William C.",1792000,3700000
+Johnson Controls,Consumer Goods,"Roell, Stephen A.",1325000,3492600
+JPMorgan Chase,Financials,"Dimon, James",1000000,0
+KBR,Industrials,"Utt, William P.",900000,1100000
+Kellogg,Consumer Goods,"Mackay, David",1136500,2601300
+Kelly Services,Industrials,"Camden, Carl T.",917500,0
+KeyCorp,Financials,"Meyer III, Henry L.",1019500,0
+Kimberly-Clark,Consumer Goods,"Falk, Thomas J.",1225000,943200
+Kohl's,Consumer Services,"Mansell, Kevin",1067500,0
+Kraft Foods,Consumer Goods,"Rosenfeld, Irene",1452200,4070000
+Kroger,Consumer Services,"Dillon, David B.",1204800,1574200
+L-3 Communications,Industrials,"Strianese, Michael T.",1145400,2750000
+Lear,Consumer Goods,"Rossiter, Robert E.",1237000,0
+Liberty Global,Consumer Services,"Fries, Michael T.",957000,1600000
+Liberty Media,Consumer Services,"Maffei, Gregory B.",1000000,5464000
+Lilly (Eli),Health Care,"Lechleiter, John C.",1339100,2709100
+Lincoln National,Financials,"Glass, Dennis R.",1000000,800000
+Lockheed Martin,Industrials,"Stevens, Robert J.",1774000,4250000
+Loews,Financials,"Tisch, James S.",1100000,2500000
+Lowe's,Consumer Services,"Niblock, Robert A.",1100000,1500800
+Lubrizol,Basic Materials,"Hambrick, James L.",933500,800000
+Macy's,Consumer Services,"Lundgren, Terry J.",1500000,900000
+Manpower,Industrials,"Joerres, Jeffrey A.",1000000,300000
+Marathon Oil,Oil & Gas,"Cazalot Jr., Clarence P.",1381300,1700000
+Marriott International,Consumer Services,"Marriott, Jr., J. Willard",1253700,904700
+Marsh & McLennan,Financials,"Duperreault, Brian",927100,3000000
+Masco,Industrials,"Wadhams, Timothy",934600,0
+Mattel,Consumer Goods,"Eckert, Robert A.",1250000,0
+McDonald's,Consumer Services,"Skinner, James A.",1337500,4600000
+McGraw-Hill,Consumer Services,"McGraw III, Harold",1350000,0
+MDU Resources,Industrials,"Hildestad, Terry D.",700000,310800
+MeadWestvaco,Industrials,"Luke Jr., John A.",1055900,0
+Medco Health Solutions,Health Care,"Snow Jr., David B.",1281500,3000000
+Merck,Health Care,"Clark, Richard T.",1783300,2244500
+MetLife,Financials,"Henrikson, C. Robert",1000000,3250000
+MGM Mirage,Consumer Services,"Murren, James J.",1500000,0
+Micron Technology,Technology,"Appleton, Steven R.",950000,0
+Mohawk Industries,Consumer Goods,"Lorberbaum, Jeffrey S.",980000,300000
+Monsanto,Basic Materials,"Grant, Hugh",1286000,3326800
+Morgan Stanley,Financials,"Mack, John J.",800000,0
+Motorola,Technology,"Brown, Gregory Q.",1200000,0
+Motorola,Technology,"Jha, Dr. Sanjay K.",484600,0
+Murphy Oil,Oil & Gas,"Deming, Claiborne P.",1241700,2000000
+National Oilwell Varco,Oil & Gas,"Miller Jr., Merrill A.",950000,1826000
+Navistar International,Industrials,"Ustian, Daniel C.",1170800,2589500
+NCR,Technology,"Nuti, William",1000000,1375000
+Newell Rubbermaid,Consumer Goods,"Ketchum, Mark D.",1291700,0
+Newmont Mining,Basic Materials,"O'Brien, Richard T.",1000000,1894400
+News Corp.,Consumer Services,"Murdoch, K. Rupert",8100000,5435000
+Nisource,Utilities,"Skaggs, Jr., Robert C.",791700,0
+Nordstrom,Consumer Services,"Nordstrom, Blake W.",696100,0
+Norfolk Southern,Industrials,"Moorman IV, Charles W.",950000,1759400
+Northeast Utilities,Utilities,"Shivery, Charles W.",1067400,1519100
+Northern Trust,Financials,"Waddell, Frederick H.",856300,0
+Northrop Grumman,Industrials,"Sugar, Ronald D.",1525000,2775500
+Nucor,Basic Materials,"DiMicco, Daniel R.",800000,2160000
+Occidental,Oil & Gas,"Irani, Ray R.",1300000,3630000
+Office Depot,Consumer Services,"Odland, Steve",1000000,0
+OfficeMax,Consumer Services,"Duncan, Sam K.",1022600,0
+Omnicare,Consumer Services,"Gemunder, Joel F.",1816700,5125000
+Omnicom,Consumer Services,"Wren, John D.",1000000,1750000
+Oneok,Utilities,"Gibson, John W.",825000,853000
+OshKosh,Industrials,"Bohn, Robert G.",1150000,178000
+Owens & Minor,Health Care,"Smith, Craig R.",788100,1080000
+Owens-Illinois,Industrials,"Stroucken, Albert P.L.",1011500,559900
+Paccar,Industrials,"Pigott, Mark C.",1348800,0
+Pantry,Consumer Services,"Sodini, Peter J.",800000,352600
+Penske Automotive,Consumer Services,"Penske, Roger S.",1000000,0
+Pepco Holdings,Utilities,"Wraase, Dennis R.",1076000,968400
+Pepsi Bottling Group,Consumer Goods,"Foss, Eric J.",984600,840000
+PepsiCo,Consumer Goods,"Nooyi, Indra K.",1300000,2600000
+Pfizer,Health Care,"Kindler, Jeffrey B.",1575000,5250000
+PG,Utilities,"Darbee, Peter A.",1090800,1285000
+Philip Morris,Consumer Goods,"Camilleri, Louis C.",1567300,9450000
+Pitney Bowes,Technology,"Martin, Murray D.",941700,1378000
+PNC Financial,Financials,"Rohr, James E.",1000000,3000000
+PPG Industries,Basic Materials,"Bunch, Charles E.",1041700,1750000
+PPL,Utilities,"Miller, James H.",1141100,0
+Praxair,Basic Materials,"Angel, Stephen F.",1026300,2500000
+Precision Castparts,Industrials,"Donegan, Mark",1275000,1689400
+Principal Financial,Financials,"Zimpleman, Larry D.",737500,0
+Progress Energy,Utilities,"Johnson, William D.",950000,929000
+Progressive,Financials,"Renwick, Glenn M.",778800,0
+Prologis,Financials,"Rakowich, Walter C.",630000,420000
+Prudential Financial,Financials,"Strangfeld, John R.",970800,3300000
+PSEG,Utilities,"Izzo, Ralph",944300,1000000
+Publix Super Markets,Consumer Services,"Crenshaw, William E.",754000,21200
+Pulte Homes,Consumer Goods,"Dugas, Jr., Richard J.",1000000,902100
+Qualcomm,Technology,"Jacobs, Paul E.",1112200,2909000
+Quest Diagnostics,Health Care,"Mohapatra, Surya N.",1143900,1915700
+Qwest,Telecommunications,"Mueller, Edward A.",1200000,2250000
+Raytheon,Industrials,"Swanson, William H.",1328600,3050000
+Regions Financial,Financials,"Ritter, C. Dowd",995000,0
+Reliance Steel & Aluminum,Basic Materials,"Hannah, David H.",700000,1883000
+Reynolds American,Consumer Goods,"Ivey, Susan M.",1252800,1730000
+Rite Aid,Consumer Services,"Sammons, Mary F.",1000000,0
+Rockwell Automation,Industrials,"Nosbusch, Keith D.",1030800,561600
+Ross Stores,Consumer Services,"Balmuth, Michael",998500,1721400
+RRI Energy,Utilities,"Jacobs, Mark M.",895000,600
+Ryder System,Industrials,"Swienton, Gregory T.",895000,567600
+Safeway,Consumer Services,"Burd, Steven A.",1467400,399900
+SAIC,Technology,"Dahlberg, Kenneth C.",1000000,1469600
+Sanmina-SCI,Industrials,"Sola, Jure",800000,440000
+Scana,Utilities,"Timmerman, William B.",1095000,653900
+Schering-Plough,Health Care,"Hassan, Fred",1720300,3387200
+Schwab (Charles),Financials,"Bettinger II, Walter W.",793800,1938000
+Sears,Consumer Services,"Johnson, W. Bruce",896500,0
+Sempra Energy,Utilities,"Felsinger, Donald E.",1144000,2530000
+Shaw Group,Industrials,"Bernhard Jr., James M.",1735400,264000
+Sherwin-Williams,Industrials,"Connor, Christopher M.",1214600,0
+SLM Corp,Financials,"Lord, Albert L.",1478800,0
+Smith International,Oil & Gas,"Rock, Doug",1347100,1341600
+Smithfield Foods,Consumer Goods,"Pope, C. Larry",1100000,0
+Sonic Automotive,Consumer Services,"Smith, O. Bruton",1100000,330000
+Southern,Utilities,"Ratcliffe, David M.",1118100,1682900
+Southwest Airlines,Consumer Services,"Kelly, Gary C.",441100,462000
+Spectra Energy,Utilities,"Fowler, Fred J.",1010000,1184100
+Sprint Nextel,Telecommunications,"Hesse, Daniel R.",1200000,2651400
+SPX,Industrials,"Kearney, Christopher J.",1050000,2730000
+Staples,Consumer Services,"Sargent, Ronald l.",1112000,0
+Starbucks,Consumer Services,"Schultz, Howard",1190000,0
+Starwood Hotels & Resorts,Consumer Services,"Van Paasschen, Frits",1000000,1820000
+State Street,Financials,"Logue, Ronald E.",1000000,0
+Stryker,Health Care,"MacMillan, Stephen P.",1200000,617300
+Sunoco,Oil & Gas,"Elsenhans, Lynn L.",515100,794000
+Suntrust,Financials,"Wells III, James M.",1077300,0
+Supervalu,Consumer Services,"Noodle, Jeffrey",1163800,0
+Symantec,Technology,"Thompson, John W.",800000,1530000
+Synnex,Technology,"Murai, Kevin 5",261500,900000
+Sysco,Consumer Services,"Schnieders, Richard J.",1146500,4764900
+TECH DATA,Technology,"Dutkowsky, Robert",948500,727300
+Tenet Healthcare,Health Care,"Fetter, Trevor",1081000,1351300
+Tenneco,Consumer Goods,"Sherrill, Gregg M.",950000,0
+Terex,Industrials,"DeFeo, Ronald M.",1150000,0
+Tesoro,Oil & Gas,"Smith, Bruce A.",1298600,0
+Texas Instruments,Technology,"Templeton, Richard K.",960800,1564900
+Textron,Industrials,"Campbell, Lewis B.",1100000,618000
+Thermo Fisher Scientific,Health Care,"Dekkers, Marijn E.",1163800,1865600
+Time Warner,Consumer Services,"Bewkes, Jeffrey L.",1750000,7600000
+Time Warner Cable,Consumer Services,"Britt, Glenn A.",1000000,4975000
+Timken,Industrials,"Griffith, James W.",1018800,1049100
+Tjx Companies,Consumer Services,"Meyrowitz, Carol",1503400,1095800
+TravelCenters of America,Consumer Services,"O'Brien, Thomas M.",300000,1000000
+Travelers,Financials,"Fishman, Jay S.",1000000,5000000
+TRW Automotive Holdings,Consumer Goods,"Plant, John C.",1673300,2520000
+Tyson Foods,Consumer Goods,"Bond, Richard L.",1251200,0
+U.S. Bancorp,Financials,"Davis, Richard K.",900000,0
+U.S. Steel,Utilities,"Surma, John P.",1218300,3250000
+UAL,Consumer Services,"Tilton, Glenn",850000,695600
+UGI,Basic Materials,"Greenberg, Lon R.",1026300,964700
+Union Pacific,Industrials,"Young, James R.",1141700,3000000
+UNISYS,Technology,"Coleman, J. Edward",233000,303800
+United Technologies,Industrials,"Chenevert, Louis",1319000,3000000
+UnitedHealth,Health Care,"Hemsley, Stephen J.",1300000,1218800
+Universal Health,Health Care,"Miller, Alan B.",1350100,3375100
+Unum Group,Financials,"Watjen, Thomas R.",1094900,2268800
+UPS,Industrials,"Davis, D. Scott",960000,312800
+URS,Industrials,"Koffel, Martin M.",1019200,2500000
+US Airways,Consumer Services,"Parker, W. Douglas",550000,550000
+Valero Energy,Oil & Gas,"Klesse, William R.",1500000,705500
+Verizon,Telecommunications,"Seidenberg, Ivan G.",2100000,3740600
+VF,Consumer Goods,"Wiseman, Eric C.",950000,760000
+Viacom,Consumer Services,"Dauman, Philippe P.",2500000,7885000
+Virgin Media,Telecommunications,"Berkett, Neil A.",957400,1077900
+Visa,Financials,"Saunders, Joseph W.",950000,4512500
+Visteon,Consumer Goods,"Stebbins, Donald J.",1076200,207000
+Walgreen,Consumer Services,"Rein, Jeffrey A.",1200000,603900
+Wal-Mart,Consumer Services,"Scott, Jr., H. Lee",1456000,5824000
+Waste Management,Industrials,"Steiner, David P.",1066000,1050900
+Wellcare Health Plans,Health Care,"Schiesser, Heath G.",365300,0
+Wells Fargo,Financials,"Stumpf, John G.",878900,0
+WESCO,Industrials,"Haley, Roy W.",854200,775000
+Western Refining,Oil & Gas,"Foster, Paul L.",726800,592400
+Western Union,Industrials,"Gold, Christina A.",966700,1105700
+Weyerhaeuser,Basic Materials,"Fulton, Daniel S.",792400,0
+Whirlpool,Consumer Goods,"Fettig, Jeff M.",1262500,420000
+Whole Foods Market,Consumer Services,"Mackey, John P.",0,0
+Williams,Utilities,"Malcolm, Steven J.",1094200,2000000
+World Fuel Services,Industrials,"Stebbins, Paul H.",575000,3543800
+Xcel Energy,Utilities,"Kelly, Richard C.",1175000,0
+XEROX,Technology,"Mulcahy, Anne",1320000,990000
+XTO Energy,Oil & Gas,"Hutton, Keith A.",941700,5250000
+YAHOO,Technology,"Yang, Jerry",0,0
+Yum Brands,Consumer Services,"Novak, David C.",1393800,4057200
