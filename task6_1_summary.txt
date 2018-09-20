@@ -1,0 +1,12 @@
+(a) The highest earner is Murdoch, K. Rupert making $8,100,000
+(b) The average bonus by finance sector is $1,438,534.00
+The average for Industrials is $1,534,059.42
+The average for Health Care is $2,055,678.57
+The average for Consumer Services is $1,761,910.67
+The average for Technology is $1,432,584.62
+The average for Utilities is $1,226,047.06
+The average for Financials is $1,438,534.00
+The average for Basic Materials is $1,441,719.05
+The average for Oil & Gas is $1,851,988.89
+The average for Consumer Goods is $1,620,450.00
+The average for Telecommunications is $1,943,980.00
