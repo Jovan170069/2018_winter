@@ -34,6 +34,8 @@ with open("salariesByIndustry.csv", "r") as salaries_file:
         salaries.append(salary)
 print("(a) The highest earner is {} making ${:,d}".format(salaries[highest_salary_index][2], highest_salary), file=output_file)
 print("(b) The average bonus by finance sector is ${:,.2f}".format(industries["Financials"][1]/ industries["Financials"][2]), file=output_file)
+print("(c) ", salaries, file=output_file)
+print("(d) ", file=output_file)
 for key, value in industries.items():
     print("The average for {} is ${:,.2f}".format(key, value[1]/value[2]), file=output_file)
 output_file.close()
