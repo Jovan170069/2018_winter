@@ -1,0 +1,7 @@
+1. Download and install Git
+2. Prepare a cheatsheet for Assessment 2 (hand-written, 1 page, A4 size)
+3. cvs checkout:
+   https://github.com/yokyen/2018_winter
+
+4. Get student account from
+   education.github.com/pack

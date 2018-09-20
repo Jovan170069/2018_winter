@@ -31,7 +31,7 @@ with open("songs.csv", "r", encoding="utf8") as fp:
         print(songs_sorted[i])
 
     # print the top ten songs into a file
-    topTen = open("topTen.txt", "w", encoding="utf")
+    topTen = open("topTen.txt", "w", encoding="utf8")
     for each in songs_sorted:
         topTen.write(str(each)+"\n")
     topTen.close()
