@@ -36,3 +36,4 @@ with open("songs.csv", "r", encoding="utf8") as fp:
         topTen.write(str(each)+"\n")
     topTen.close()
 
+print("Testing")
