@@ -10,8 +10,6 @@ import csv
 
 output_file = open("task6_1_summary.txt","w")
 salaries = []
-
-count = 0
 industries = {} # Construct dictionary for b & d, {Industries: [wages, bonus, count]}
 with open("salariesByIndustry.csv", "r") as salaries_file:
     salaries_csv = list(csv.reader(salaries_file))
