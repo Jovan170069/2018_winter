@@ -37,3 +37,4 @@ with open("songs.csv", "r", encoding="utf8") as fp:
     topTen.close()
 
 print("Testing")
+print("Test 2")
