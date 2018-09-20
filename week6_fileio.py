@@ -32,9 +32,7 @@ with open("songs.csv", "r", encoding="utf8") as fp:
 
     # print the top ten songs into a file
     topTen = open("topTen.txt", "w", encoding="utf8")
-    for each in songs_sorted:
-        topTen.write(str(each)+"\n")
+    for each in range(10):
+        song_in_str = "{}, {}, {}, {}, {}".format(songs_sorted[each][0], songs_sorted[each][1], songs_sorted[each][2], songs_sorted[each][3], songs_sorted[each][4])
+        topTen.write(song_in_str+"\n")
     topTen.close()
-
-print("Testing")
-print("Test 2")
