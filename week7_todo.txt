@@ -1,0 +1,5 @@
+Do 6.1 using dataframe
+- read the csv file (read.csv(...))
+- data.frame()
+- data.frames
+- answer those questions listed
