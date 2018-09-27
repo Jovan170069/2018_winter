@@ -6,7 +6,8 @@
 setwd(".....")
 data <- read.csv("salariesByIndustry.csv")
 df <- data.frame(data)
-highest_salary <- max(df$Salary) # a
+df$ExecutiveName[which.max(df$Salary)]
+#highest_salary <- max(df$Salary) # a
 result <- tapply(df$Bonus, df$CompanyType, mean)
 result["Financials"] #b
 df$avg_wages <- (df$Salary + df$Bonus)/12 # c

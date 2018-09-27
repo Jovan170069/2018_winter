@@ -1,4 +1,4 @@
-Do 6.1 using dataframe
+Do 6.1 using OOP
 - read the csv file (read.csv(...))
 - data.frame()
 - data.frames
