@@ -1,4 +1,4 @@
-setwd("C:\\Users\\yen\\Dropbox\\Codes\\2018_winter")
+setwd("C...")
 data <- read.csv("salariesByIndustry.csv")
 library("data.table")
 dt <- data.table(data)
