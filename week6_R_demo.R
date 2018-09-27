@@ -22,3 +22,6 @@ dt[c2 == "A", mean(c1)] # compute mean of c2 whose values are "A"
 dt[1:3] # select row 1 to 3
 dt[,1:3] # select column 1 to 3
 
+# task 6_1 in R
+setwd(".")
+dt <- fread("salariesByIndustry.csv")
